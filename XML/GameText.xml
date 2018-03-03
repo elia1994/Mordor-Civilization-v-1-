@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SAURON">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SAURON_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SAURON">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SAURON_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_WARGFEAR">
+			<Text>Warg fear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WARGFEAR_HELP">
+			<Text>-5% nearby enemy combat (range 1)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAZGULFEAR">
+			<Text>Nazgul fear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAZGULFEAR_HELP">
+			<Text>-15% nearby enemy combat (range 2)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAZGUL">
+			<Text>Nazgul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_NAZGUL_TEXT">
+			<Text>The Nazgul, also known as the Ghosts of the Ring or Ulairi, are the most faithful servants of the Dark Sire. They were once men who were corrupted by Sauron, who gave them nine of the Rings of Power he forged during the Second Age. In this way Sauron through the power of made them his slaves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NAZGUL">
+			<Text>Nazgul is a melee unit that is upgraded each era.[NEWLINE]Nazgul is a general too.[NEWLINE]At last, Nazgul has a promotion that decreases the combat of nearby enemy units by 15%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OGRE">
+			<Text>Ogre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_OGRE_TEXT">
+			<Text>The Ogre are a race of abject beings who inhabit Middle-earth. They were created by Melkor at the dawn of time by corrupting the Elves captured by him in body and mind, to insult Ilúvatar and to have cannon fodder for his armies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OGRE_STRATEGY">
+			<Text>Ogre is a unit that replaces warrior.[NEWLINE]Ogre has two promotion: 1 extra move and +25 heal if destroy enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARG">
+			<Text>Warg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_WARG_TEXT">
+			<Text>The Wargs, also known as Mannari Selvaggi, are a wicked breed of wolf-shaped beasts that infest Middle-earth, focusing primarily on the Misty Mountains, Mount Gundabad and Mordor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARG_STRATEGY">
+			<Text>Warg is a unit that replaces horseman.[NEWLINE]Warg has two promotion: formation 2 and Warg fear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BARADDUR">
+			<Text>Barad-Dur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THENINE">
+			<Text>The Nine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THENINE_HELP">
+			<Text>+20% production land unit.[NEWLINE]Free Nazgul.[NEWLINE]It cannot build but it is built by Barad-Dur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LORDOFTHERINGS">
+			<Text>Each time you found a city, a Nazgul appears.[NEWLINE]-33% land unit maintenance. [NEWLINE]+20% land unit production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LORDOFTHERINGS_SHORT">
+			<Text>Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_1">
+			<Text>Barad-Dur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_2">
+			<Text>Orodruin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_3">
+			<Text>Morannon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_4">
+			<Text>Minas Morgul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_5">
+			<Text>Gorgoroth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_6">
+			<Text>Carach Angren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_7">
+			<Text>Minas Durlith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_8">
+			<Text>Barad Ungol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_9">
+			<Text>Nargroth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_10">
+			<Text>Seregost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_11">
+			<Text>Barad Wath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_12">
+			<Text>Thaurband</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_13">
+			<Text>Urlurzu Nurn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_14">
+			<Text>Nurgost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_15">
+			<Text>Caran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_16">
+			<Text>Burkh Nurn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_17">
+			<Text>Eastern Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_18">
+			<Text>Buth Ovaisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_19">
+			<Text>Durthang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYMORDOR_NAME_20">
+			<Text>Nan Ungol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_0">
+			<Text>Mouth of Sauron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_1">
+			<Text>Witch king</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_2">
+			<Text>Azog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_3">
+			<Text>Gollum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_4">
+			<Text>Shelob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_5">
+			<Text>Golfimbul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_6">
+			<Text>Gorbag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_7">
+			<Text>Grishnakh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_8">
+			<Text>Shagrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORDOR_9">
+			<Text>Snaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORDOR_ADJECTIVE">
+			<Text>Mordor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORDOR_DESC">
+			<Text>Mordor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORDOR_SHORT_DESC">
+			<Text>Mordor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MORDOR">
+			<Text>The Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORDOR_DOM">
+			<Text>Sauron the Great, the most powerful of the Mayar, Lord of the Rings. [NEWLINE]He was originally known by the name of Mairon the Admirable and belonged to the Maiars lineage. In particular, he had been a servant of the Vala Aule from whom he learned the art of manipulating the elements of the earth and of making objects such as the Rings of Power. However, Sauron was soon ensnared by the Dark Enemy Melkor and became a wicked creature. He became his most powerful servant along with Gothmog, to whom he was superior in any case. During the Second Age, Sauron looked good, and called himself "Annatar," the Lord of the Gifts, trying to deceive Elves, Men, and Dwarves. With his help the Elves forged several Rings of Power, but Sauron secretly forged the One Ring in the Mountain of Fire, with which to dominate all others, fusing in it most of his power and his will.[NEWLINE][NEWLINE]The orcs cheer you, the Nazgul are at your service. Can you, Sauron the Great, forge a kingdom that will dominate over time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAURON_HEADING_1">
+			<Text>Myth and Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAURON_TEXT_1">
+			<Text>He was originally known by the name of Mairon the Admirable and belonged to the Maiars lineage. In particular, he had been a servant of the Vala Aule from whom he learned the art of manipulating the elements of the earth and of making objects such as the Rings of Power. However, Sauron was soon ensnared by the Dark Enemy Melkor and became a wicked creature: he betrayed the Valar and became his most powerful servant along with Gothmog, to whom he was superior in any case. He was placed in command of Angband, an evil fortress built between the Ered Engrin to the north of Beleriand. Later, Melkor was defeated and captured by the Valar during the Second War of the Powers but Sauron managed to escape and hide while awaiting the return of his master along with his other servants, including several Balrogs. [NEWLINE] Upon Melkor's return, Sauron rejoined him in the fight against the Noldor, who had left the Blessed Realm led by Feanor, in what would later become known as the War of Jewels. In this period, Sauron, with the name of Gorthaur the Cruel, became known for his witchcraft and his mastery in illusions due to the fact that he could change appearance. After his Lord was defeated at the end of the War of Wrath, Sauron repented (apparently) and prayed before Eönwë for mercy. But he was not willing to return to the West to be judged by the Valar, so he escaped and hid himself. After being hidden and inactive for about 1000 years, during the Second Age, Sauron looked good, and called himself "Annatar," the Lord of the Gifts, trying to deceive Elves, Men, and Dwarves. With his help the Elves forged several Rings of Power, but Sauron secretly forged the One Ring in the Mountain of Fire, with which to dominate all others, fusing in it most of his power and his will. Sauron became "the Dark Lord of Mordor", erecting the Dark Tower of Barad-dûr, near Mount Fato; building the Black Gate of Mordor to prevent invasion. When Ar-Pharazon usurped the throne of Numenor, in the year 3255 SE, he saw the growing eastern kingdom of Sauron as a threat. Then with a fleet he sailed towards the port of Umbar and landed there with a great war apparatus. The servants of Sauron who saw the fleet of Ar-Pharazon were so dismayed by the Numenorian power to flee away in fear; then Sauron himself, who still looked good, decided to humble himself by prostrating himself on the ground and begging pardon of men. The act of submission had been devised by Sauron to deceive the human king, but he himself probably feared the glory of men. Thus Ar-Pharazon, who among all the rulers of Numenor was the most powerful and at the same time the most ambitious, proudly and naively decided to imprison Sauron; the obscure gentleman took advantage of the king's bold arrogance to ingratiate him, but soon he gained the confidence to reach the rank of First Counselor of the King. So Sauron continued to obscure the already weak mind of the king, inciting him to institute religious worship in adoration of Morgoth, of which he became High Priest. Sauron's plan was based on the idea that the Valar would destroy Ar-Pharazon and his army, eliminating the greatest obstacle to the conquest of Middle-earth. The Valar, to avoid a war, decided to renounce the title of guardians of the world and invoke Ilúvatar. Eru destroyed the King's fleet and buried Ar-Pharazon and his army in the Oblates Caves. At the same time Numenor was sunk into the sea and the Western Lands were separated from the world. Despite the devastation, a group of faithful Numenoreani were rescued by the Valar during the destruction of the island and under the guidance of Elendil and his sons Isildur and Anarion came to Middle-earth, where they founded the Kingdoms of Arnor and Gondor. These men allied themselves with Gil-galad, the Supreme King of the Noldor, and together they attacked Sauron, defeating him after a long and bloody war despite Elendil and Gil-galad perishing in the clash. Isildur, son of Elendil, took his father's sword and hit Sauron who had been severely wounded in the fight and cut off his finger in which he wore the Ring he kept for himself. But the Ring wanted to get rid of Isildur, who died at the hands of the Orcs, near the Iridades Fields. Then the Ring ended up in the waters of Anduin and nothing more was known for centuries. Sauron lost almost all his power, wandering like a merciless and terrible spirit for a very long time, unable to regain his physical form and to gather his servants. A Dol Guldur was known as the "Necromancer", and the Elves did not immediately realize that it was none other than Sauron, but they thought it was one of the Nazgûl, perhaps the Witch King of Angmar himself. From his new fortress the Dark Lord returned to weaving the threads of his plots: thanks to his influence and the action of his servants, he succeeded in causing the fall of Arnor's kingdom, while he pushed the Esterlings and the Haradrim to concentrate their own attacks on Gondor, weakening it and even succeeding in causing the extinction of the Anárion Line. Sauron returned to Mordor in 2941 where Barad-dûr had been rebuilt, and fortified his kingdom that had long been preparing for war against Gondor and the Elves. Sauron built huge armies of Orcs. He allied with the mercenary Men of the East and the South. His armies were defeated by the arrival of Aragorn, legitimate heir to the throne of Gondor, who faced them together with the armies of Rohan and the Southern Feuds in the Battle of the Fields. of the Pelennor, during which the Witch King lost his life at the hands of Éowyn, the nephew of the king of Rohan. Sauron was then defeated when the One Ring was thrown into the Chasm of Fate on Oroduin to Mordor, in the same flames from which it was forged. Sauron's power failed, and his power in Middle-earth ceased, and the creatures animated by his spirit were deprived of the inner strength that guided them. His spirit flared over Mordor like an evil black cloud, but he was swept away by a powerful wind from the West, and Sauron completely lost his powers, never being able to regain them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAURON_LIVED">
+			<Text>0 - 3019 TE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAURON_NAME">
+			<Text>Sauron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SAURON_SUBTITLE">
+			<Text>Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAURON">
+			<Text>Sauron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAURON_FIRSTGREETING_%">
+			<Text>My master, Sauron the Great, bids thee welcome. Is there any in this rout with authority to treat with me? Or indeed with wit to understand me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAURON_DEFEATED_%">
+			<Text>It's not possible! Sauron the Great has fallen, he was defeated by these insignificant creatures!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0309ce24-b94d-4c65-9f12-a9229c936a13" version="1">
+  <Properties>
+    <Name>Mordor Civilization</Name>
+    <Teaser>Mordor Civilization</Teaser>
+    <Description>This mod adds Mordor Civilization with Sauron.
+The trait is: -33% land unit maintenance, each time you found a city, a Nazgul appears, +20% land unit production.
+The Unique Units are: Ogre, Warg and Nazgul.</Description>
+    <Authors>Elia</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2C7859E974F544D0DD44A3F4AA3BAFE2" import="1">Art/BARADDUR128.dds</File>
+    <File md5="37882188A2E823D901991C6A5A2DFF30" import="1">Art/BARADDUR256.dds</File>
+    <File md5="DCFF67BEAF4D6D8F32C8C39BA2A72F44" import="1">Art/BARADDUR45.dds</File>
+    <File md5="93DD328A7172CCFA2E7D128EDD32A4AA" import="1">Art/BARADDUR64.dds</File>
+    <File md5="BDB4BC0CA251DCCE0FFCB0B0880ADB5F" import="1">Art/BARADDUR80.dds</File>
+    <File md5="5F15854B771249AA54AD4D1C960327BC" import="1">Art/MAPMORDOR.dds</File>
+    <File md5="3BBDD491D0D1FD83671F55F31018D430" import="1">Art/MORDOR128.dds</File>
+    <File md5="F673355FF119B081A28475F242EF63F4" import="1">Art/MORDOR256.dds</File>
+    <File md5="63D4D8DCE8891B062CB5526807BF3A01" import="1">Art/MORDOR32.dds</File>
+    <File md5="0203FE78AD0BC632F71597A6D802C5CF" import="1">Art/MORDOR45.dds</File>
+    <File md5="902F6B587DDF6F132C3D54F677C6388A" import="1">Art/MORDOR64.dds</File>
+    <File md5="D11EB5380DD757D346F4D6C2C16FB047" import="1">Art/MORDOR80.dds</File>
+    <File md5="93F14C1DFC808295C683E12D3C6FE353" import="1">Art/MORDORDOM.dds</File>
+    <File md5="CC1F89691A578286C549FE7D6C4E92D8" import="1">Art/NAZGUL128.dds</File>
+    <File md5="D417236DDCB4B90D7C6B878934A2E6F8" import="1">Art/NAZGUL256.dds</File>
+    <File md5="73565E7821D503C5A9FE1A8C08CFEF0F" import="1">Art/NAZGUL45.dds</File>
+    <File md5="1C33B3BF8D9F57BFC6CBECE131D1EFD1" import="1">Art/NAZGUL64.dds</File>
+    <File md5="BE444DB68795EA9EA37706EE58655F9D" import="1">Art/NAZGUL80.dds</File>
+    <File md5="91FBBC37204DAAAD9D6AF7998535545C" import="1">Art/OGRE128.dds</File>
+    <File md5="E048EC46E761744A6CD4E86F27C32109" import="1">Art/OGRE256.dds</File>
+    <File md5="FBCFD4F864DD72902EF6DC328F5F2133" import="1">Art/OGRE45.dds</File>
+    <File md5="1411B5D4299A10A651CA03381FFACCD4" import="1">Art/OGRE64.dds</File>
+    <File md5="05CE3D55264C6DCA78097BA3A1B0DAB4" import="1">Art/OGRE80.dds</File>
+    <File md5="9F7B24CDF3FC4EFF469EAB8D1EC9823C" import="1">Art/SAURON128.dds</File>
+    <File md5="795237670CEE1818891F54D61E5EBC16" import="1">Art/SAURON256.dds</File>
+    <File md5="7F242A02D163B26D361DCB457BC05EC7" import="1">Art/SAURON45.dds</File>
+    <File md5="511CFD651B3B07299D48C77083902E4C" import="1">Art/SAURON64.dds</File>
+    <File md5="77009CCC2B281F81078C35D8AAB2AF4E" import="1">Art/SAURON80.dds</File>
+    <File md5="67114FC6B94D6AD20C2C460B39795AEE" import="1">Art/SAURONdiplo.dds</File>
+    <File md5="B2FA55D8C48DD612223DC1F54DE32799" import="1">Art/WARG128.dds</File>
+    <File md5="2AA920A7717687C6D02EE0FD765AC5B8" import="1">Art/WARG256.dds</File>
+    <File md5="EBB13C6EEC677822346F10F7321572F0" import="1">Art/WARG45.dds</File>
+    <File md5="A0892D8E67DB144852349E5E68B50387" import="1">Art/WARG64.dds</File>
+    <File md5="AAD35B6D600CFD48F5949D18ADE61921" import="1">Art/WARG80.dds</File>
+    <File md5="7C2BFE8391B0399CD18C0B88CFD81332" import="0">XML/GameText.xml</File>
+    <File md5="814A1777EC0FD8809302B4D20C710195" import="0">XML/Mordor.xml</File>
+    <File md5="70149E6DB696385963DB93D82315E0EB" import="1">XML/SAURONScene.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mordor.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
